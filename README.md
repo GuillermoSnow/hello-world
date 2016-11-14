@@ -1,2 +1,1 @@
-# hello-world
-Just another repository
+Hola soy Guillermo, estoy aprendiendo GIT :V
